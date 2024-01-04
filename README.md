@@ -6,7 +6,7 @@ This is an interpreter for regular expressions. It is a command-line app that ta
 as an initial input. After that, it will read given input strings one by one and tell if the language (defined by the RE) 
 recognizes them or not. The syntax of the regex is based on the formal definition of 
 [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) 
-in their formal definition in 
+in 
 [formal language theory](https://en.wikipedia.org/wiki/Formal_language).
 
 Regexes will support the following operators:
